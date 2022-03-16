@@ -1,11 +1,11 @@
-# Codeacademy Sliding Panel
-Sliding panel project from Codeacademy jQuery course. Made with HTML, CSS, and JavaScript.
+# Codecademy Sliding Panel
+Sliding panel project from Codecademy jQuery course. 
 
 ## Instructions
 Clone or download zip file. Open index.html file in your browser.
 
 ## Contributing
-This repository is based on starter code from Codeacademy. Therefore I will not be accepting any pull requests.
+This repository is based on starter code from Codecademy. Therefore I will not be accepting any pull requests.
 
 ## Acknowledgements
-* Codeacademy
+* Codecademy
